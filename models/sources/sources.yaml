@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: MID_SQLSERVER_DBO
+    database: MID_SPH_RAW
+    schema: MID_SQLSERVER_DBO
+    tables:
+       - name: DISPENSEREPORTDETAIL
